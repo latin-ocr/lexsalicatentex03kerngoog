@@ -1,0 +1,138 @@
+NOTES. PRELIMINARY REMARKS.
+
+Wherever a gloss has become corrupt owing to the peculim-ities
+of the semi-Latin pronunciation‚ we may be satisfied that such a
+gloss was written under dictation. But it is certain that other
+errors have crept in because the scribes mistook the written
+characters, It is impossible, even approximately, to guess the
+relative date of the birth of each particular error, since the codices
+belong to widely different familieS, with such restrictions as will
+be pointed out presently.
+
+ξ 3. If, in order to determine the genealogical relation of the
+MSS„ we allow ourselves to be guided by the glosseS, we shall,
+unless Ι greatly err, arr-ive at the following resultS. Codd. 7, 8
+and 9 are intimately connected, and derived from a not very
+distant common source, so that their combined testimony, where
+it is opposed to that of otherS, only counts for one. Viewed
+separately, they appear to stand at an equal distance from their
+source, but not so from each other. That is to say, from a
+common parent—let us call it A--have sprung a and b; 7 and 9
+are the issue of a, 8 of b. Consequently 7 and 9 may be termed
+brotherS, 8 is their cousin.
+
+The connexion between codices 6 and 10, though distant and some·
+what veiled, is unmistakeable. The glosses in the latter- MS„
+now lost, show throughout the traces of an ably revising and
+renovating hand. The person who was able to replace chambclzeetto
+by cherecheto (111. 7), changirto by chengzlrto (XLI. 2), and the
+like, was perfectly acquainted with the language. The unknown
+reviser cannot have been the same person as the scribe, sor there
+are a few blunders in 10 which prove beyond doubt that the copyist
+was quite ignorant of Frankish, the numerals tw0, three, five, &c.,
+being mysteries to him. Taken as a whole, cod. 10 is the best
+manuscript, or rather the only tolerably good one, a fact the more
+explicable when we consider that the revised readings had not yet
+had time to become so utterly corrupt as the older ones in the other
+MSS„ which had remained without the benefit of a revision by
+competent hands. Hence the glosses in 6, though much more
+ancient in their phonetical aspect and in a few caseS, perhapS,
+essentially more original too, are far more deteriorated than those
+111 10.
+
+Cod. 2 belongs to a third family. Its glosses look nowhere younger,
+but in a few cases older, than those in 6. When 2 has a gloss
+materially different from the corresponding one in the other codiceS,
+it becomes difficult to decide which of the two is more original,
+because the different termS, considered as mere wordS, must have
+existed side by side in the language. The clerical eri-ors 111 2 are
+numerous; its scribe was evidently a stranger to Frankish.
+
+The glosses in cod. 1 look as ancient as those in 2. Some
+coincidences in the choice of the terms might at first sight
+suggest the idea of a special connexion between the two, but 011
+closer inspection we perceive that the coincidences between 2 and 6,
+10 or 7, 8, 9 are more numerouS, ahd certainly more close than
+between 2 and 1. The stray coincidences between 1 and 2 may be
+explained by assuming that cod. 1 or its parent is an eclectical
+work based upon various ancient MSS. At any rate, cod. 1, as a
+whole, stands far away srom 2 as well as from 6, 7, 8 and 9. It
+differs in one important point from all the other codiceS, 4 excepted,
+in that it consistently writes thunginus‚ whereas the others have as
+consistently tunginus.
+
+A determination of the relative place of codd. 3, 4, and 5 is of
+no practical interest, as far as the glosses are concerned3 for our
+purpose they are all but worthleSS.
+
+Ι do not think it necessary to trace the genealogy of the MSS. any
+
+4³³
+
+further. The chain of evidence is broken, and only a few links have
+been preserved which we may violently weld together, but cannot
+make to fit.
+
+It must not be supposed that, in basing my estimation of the
+relationship os the codices upon the glosseS, Ι pretend to decide
+anything as to the jurist’s view of the question. This is wholly out
+of my sphere. Still, Ι think it right to observe that the results Ι
+have come to, nearly coincide with those arrived at by Merkel,
+independently and in another way.
+
+§ 4. A disquisition on the probable origin of the material varia-
+tions in the glosses must ultimately lead to the question, whether
+the Latin text be an original composition or a more or less free
+translation. Grimm, in the passage already quoted, expresses the
+opinion that the Lex Salica sprung into existence in the 5th century.
+He considers it to have been composed hythe Franks in Latin,
+though in doing so they could not avoid using many indigenous
+words which were Latinized for the purpose (¹). At the same
+time he fully admits (²) that “the words and formulae, as re·
+mainders of the indigenous forensic language (gemebas-pruche), by
+no means look as if they were translations from the Latin, but
+rather as original.''
+
+In fact, the profound scholar nowhere intimates a doubt as to the
+previous existence of Frank laws. On the contrary, he speaks of a
+“ forensic language,” which presupposes a comparatively developed
+practice of the law. All the materials for the compilation of the
+Latin Lex Salica being extant, its originality can only be an
+originality of the second order; the Latin text may be original in
+its arrangement, but it is not 50 111 its constituent parts, It is
+possible, not to say probable, that every phrase of it existed already
+in a Frankish form. Even if the whole of the first part, dating from
+a period before Chlovis, has not been bodily translated, its originality
+is a qualified one. Supposing the first Frank compilers to have
+written 'down the result of their legislative labours in Latin, even
+then the Latin text is but quasi-original, because those men cer-
+tainly did not discuss and think 111 a foreign language. F'or those
+who wish to explain the Frank termS, either in the glosses or in the
+text, such a kind of originality is 111 reality nothing else but a trans-
+lation from an original which was never written down, but never·
+theless actually existed in the mind of the author.
+
+If we have to believe the statements of the Prologues, grave
+doubts arise even in regard to the qualified originality of the Latin
+text. We are told that the greater and oldest part of the law was
+framed or compiled by a committee of four men elected from th‘ree
+villages situated, according to one of the Prologues, beyond the
+Rhine—of course the Lower Rhine. Due allowance being made for
+the legendary character of such statementS, we may, I imagine, fairly
+infer from the Prologues that, in the tradition of the FrankS, their
+Salic Law dated from a period considerably anterior to the gth
+century, and ·had remained essentially the same, notwithstanding
+such modifications and additions as became necessary in the course
+os time. This much seems to be well ascertained and generally
+admitted that the first part of the Law is anterior to the reign of
+Chlovis. What could have induced the heathen Franks of those
+
+(²) Pref. to Merkel’s ed„ p. v. : ‘⁸ Im salischen gesetze selbst, also auch in
+seinen unglossierten handschriften, treffen sich nicht wenige wssrter deutsches
+ursprungs, nur mit lateinischer endung oder zuthat versehn, welche lehren,
+dass die Franken zur darstellung ihres rechts heimischer und technischer
+ausdriicke gar nicht entratcn konnten.''
+
+(π) lb. p. iii.
+⁴³4
+

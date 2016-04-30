@@ -1,0 +1,152 @@
+NOTES.
+
+Sometimes we must leave it undecided whether a particular error
+be one of commission or of omission. E. g. if we see written
+alac for alag and alach (Tit. XIV), it is certain that the c is wrong,
+but doubtful whether ch or g· was the letter intended, for both cb and
+g are, in such a case, regularly interchangeable, and the scribes are
+just as apt to leave out the h of ch, ph and th, as to confuse c and g.
+
+The omission of Ιι in the compound letters ph, th and ch is as
+common as its being wrongly added. Thus, 6-10 all have a wrong
+tum), turp. Is it by way of compensation that cod. 6 gives
+reipbus for rapu-r, e. g. Tit. XXXII, whereas in 9 we find rephus,
+while its brother 7 and cousin 8 prefer reppus? (¹) ΤΙιεο, theu, i.e.
+Gothic piws and piwi, were capr-iciously written with or without the
+necessary Ιι. In Tit. LV, cod. 7 has creo, its brother 9 creba, its
+cousin 8 chreo ,· in C111 instead of chr-en, as 10 really shoWS, cod. 1
+gives cren, 2 creo.
+
+It must be observed that the use of the digraphs pt and ct to
+represent the sounds pbt (ft) and cht (ht) cannot be considered
+erroneouS. It is a peculiar way of spelling, of frequent occurrence
+in F rankish charterS, Old English documentS, and, as regards pt, in
+Icelandic. The frequency of this manner of writing‚ far'from point-
+ing to a pronunciation different from ft and cht, proves on the
+contrary that the Teutonic people using it were unable to sound a
+real pt or ct. For those who cannot pronounce pt and ct, there is
+no inconvenience in writing them, because it is a matter of course
+that everybody sounds them according to the idiom. Ι have been
+told by Mr. Henry Sweet‚ that Icelanders, up to this day, have a
+difficulty in pronouncing pt, so that if they have to pronounce an
+English word like accept, they naturally say accefl. There is no
+doubt that this trait was formerly common to all people of the
+Teutonic race. Hence (as an example of ct) the Ο. Ε. sohte, Engl.
+sougbt, Dutch nocht ,· and (as an example of pt) Dutch kocht,
+instead of the still dialectic kost, from koopen, A. S. cea'pz'an, διε.
+
+Nor should we call it an error when, in all cases where Old
+Saxon works, as the Heliand or Frank charters of the same period,
+promiscuously use b (ὃ), s and v, we perceive in Frankish words a
+fluctuation between b, v, s or ph. Even in the Latin text we
+find examples of those letters having the same value, of course
+under certain circumstances. Not to go further than Tit. 11, we
+see how the Latin scrofa is expressed by scr-ova and scruva in 23
+scrofa and scropha in 6 ; scr-oba in 1 ς scrova in 5 and 10. Sacrivus
+in 6, 7, 8, 9, is written sacribus and sacri-'fus in 2; sacr-{sus in 10.
+These examples, taken at random, will suffice to prove that the
+Latin v(²) had,-in some regions at least, acquired the sound which
+it has retained in French and Italian, i. e. a sound regularly passing
+into that of s, under certain conditions; e. g. Latin noua has
+becor'ne in F rench neuve, whereas novus yielded neus.
+
+Wherever we see a v in Frank words alternating with f (ph)
+and b, we may be sure that it was sounded like the letter v in
+English and Dutch, and most likely in Old and Middle High
+German. To express the w, the normal spelling appears to have
+been uu, as in uuala, a Walloon, in 2, Tit. XLI. It is difficult to
+say whether the Franks pronounced their w(uu) in the English or
+
+ 
+
+ 
+
+(¹) In the particular case of 6, the ph instead of p is so frequent, almost
+constant, that it would seem as if the copyist of 6 had been influenced by the
+High-Frankish pronunciation. At the same time it must be observed that
+cod. ro, though younger and in other respectu nearly allied to 6, regularly
+writes p. A noteworthy exception is stafflus for stapplus in the text of
+Tit. LV, though this exception may after all be an illusory one. .
+
+(²) It is unnecessary to observe that u and v are not distinguished in the
+MSS. For shortness sake 1 express by v tho consonant sound.
+
+4³7
+
+PRELIMINARY REMA RKS.
+
+Dutch way ; the former supposition is the more probable. Instead
+of uu we often meet with a single u, and that not merely in cases
+where the Heliand also writes u. In Latin words uu (w) never
+occurs ; the scribes very often turned the w into m.
+
+The Latin of the text may be said to stand almost midway
+between Latin properly so called and the French of the 9th century,
+some characteristics of which are distinctly foreshadowed in the
+language of the Lex. A few of these peculiaritieS, in so far as they
+affect the exterior form of the glosses, deserve to be pointed out.
+An initial s, if followed by a consonant, has a tendency to receive
+before it an e or i; such an sis sometimes represented by x. E. g.
+spoliare passed into expoliare ,· scrofa became iscrofa, Tit. 11, § 5 in
+B, a MS. which belongs to the same family as codd. 7-9. Owing to
+graphical cockneyism, the prefixed i is often spelt hi, in the same
+manner as e. g. LIV, cod. 4, hoccisus for occis-us. This semi-Latin
+e, i, lu· has not seldom, by mistake‚ found its way into the glosses.
+Hence, in Tit. IX, excuto and scuto, both in one and the same
+codex 2, by the side of hiso-hoto in 7, but scuto in 9. The varying
+glosses extraho, iterabo and Itis-chmbo in Tit. XXX, clearly denote
+one and the same word, the genuine form of which must have been
+either scrabo (sehr-abo) or strabo.
+
+It is another characteristic of semi-French Latin, that t and p
+between vowels had already begun to be softened down to d and ὂς
+ε. g. vodivo 11, ᾇ 11 in 4, instead of votivus. It is not to be
+wondered at when the MSS., in which the semi-French character
+appears most developed, do not leave the Frank words unimpaired.
+Hence the erroneous rebus in XXXII, reibus, rebus in XLIV, for
+which the Frankish text must have had repus, reszus. In the same
+way, scopin (Dutch schepen), Latinized to scapinus, became sca-
+binus, escabinus, &c., until it reached the modern French form
+ecbevin.
+
+A few cases remain where the origin of a false reading is open
+to discussion. When we see in Tit. XXXVIII the word chanzisto
+in 6, which is the O. Frisian hangst, Ο. Engl. hengest, δια, the
+question arises how to account for the z. Though the original
+sound was certainly g, it is far from impossible that before an i or
+e it became palatalized as in Frisian, not to speak of languages
+of more remote affinity. If gi in F rankish really had the tendency
+to become zi, we should expect the examples to increase the
+younger the words are in their general phonetic aspectS. But the
+contrary happens3 the older form, in 6, is chanzi, the younger,
+in 10, chengi. It is true that elsewhere to also writes in Zymtssr,
+e.g. II, ἕ 8; on the other hand 2 and 10 have both tunginus where
+we might expect tunzinus, and 8, though it has tumzimus, at the
+same time as capriciously writes ingx'smus. If we remember that
+in the so-called Anglo-Saxon (also Irish, Cymric) style(¹) of letters
+the g, i.e. g, may be easily confounded with a, and observe how 10
+strangely uses a capital in in Zymis, we shall be safe in ascribing
+such a peculiar a to scribal ignorance.
+
+Such confusions as are inexplicable 'from the style of writing
+of our MSS. must date from a previous period. According to
+Prof. Freund (²) the minuscule writing--that of our MSS.—goes
+back to the end of the 8th and beginning of the 9th century,
+
+⁵ so that the Lex Salica must have been exposed for nearly four
+
+ 
+
+ 
+
+ 
+
+(¹) Cf. J. Rhys, Lectures on Welsh Philology, p. τοι (ist ed.).
+(ἱ) Triennium philologicum, 1. p. ²²7 : ‘⁸ Die Minuskelschrift bildcte sich
+gegcn Ende des 8 und Anfang des 9 Jahrh. (durch Alkuin’s Schule im
+
+ἔίαηίιέεὲοῗῐει· zu Tours) und gelangte im ves-lause der Zeit zur Allein-
+errsc a .'
+
+⁴³8
+

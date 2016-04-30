@@ -1,0 +1,164 @@
+INTRODUCTION.
+
+As this work was undertaken with the intention of supplying
+materials and facilities for a thorough study of this important docu-
+ment, no attempt has been made to give what is usually called a
+cn‘tical edition. The codices have been reproduced without any
+alteration except in the punctuation, which is my own, and may
+be altered by the reader at his pleasure3 that of the MSS. is in
+most cases a full-stop, and usually placed where it is not cus·
+tomary at present to put one. The letters represented by contrac-
+tions in the MSS. are represented in print by italics, except in the
+Glosses, which are given as they appear in the MSS. Only in one
+or two instanceS, where the type did not readily lend itself to a
+representation of the contractions of the Gloss, italica have been
+used, e. gr. in ch. 3, ᾗ 2 (thinzimus of cod. 8), and ch. 5, ᾗ 1
+(haper of cod. 7). I have not extended the words denarii, denarios
+qui faciunt solidi, solidos, and culpabilis iuda-etur, which occur in
+the MSS. in almost every paragraph, and nearly always abridged.
+1 have printed uniformly: den. . . . qui fac. sol. . . . culp. iud„
+extending by italics the contractioris of the MSS. as far as was
+necessary to keep up this uniformity.
+
+In some cases where a correction has been made by the scribe of
+the MS. or by some cotemporary corrector, 1 have given both the
+original word and the emendation. But this was not possible every-
+where, as sometimes the original word is no longer legible. Obser-
+vations on readings or corruptions in the texts are placed by the
+side of the texts in a separate column, where also references are
+given to corresponding or similar enactments in the other Barbarian
+LawS, including the A. S. LawS, but not the vernacular F ris-ian nor
+any of the Skandinavian Laws· The Glossarial Index is intended
+1⁰ to be an Index to all the words treated in Kern’s N otes, and 2⁰
+to register all words and phrases of any importance in the Lex
+Salica. Very few words occurring in the Salic Law can be properly
+discussed without quoting a variety of other Mediaeval documents.
+As this was not my plan, 1 have given only such explanation-s or
+observations on words or readings in the texts as could be reason-
+ably expected in an Index prepared more with the view of facilitat-
+ing than satisfying inquirieS. On coll. 565 and 566 will be found
+further explanations regarding. the Index. The Glosses from the
+Cod. Est. διε. inserted in the Index have been taken from Merkel’s
+edition. The abbreviations made use of in the column of observa-
+tions are :—
+
+App. = Anhang (I-XXIII) in Reinh. Schmid, Die Gesetze der
+Angelsachsen, 1858.
+BoIr‘thiuga-Echis edition of the Capitularies in Behrend’s ed. of the
+
+Cancian. = canciani, Barbarorum Leges antiquae, 1783-92.
+
+Cap. Lud. = Capitulare Ludovici Primi (Α. 1). 819); cf. column 419.
+
+of this work.
+Ed. Child. (595) == Childeberti H regis decretio (596, wrongly 595
+in col. 243), in Mon. Germ. Legg. Ι. 8.
+Ed. Li. or Liu. = Ed. or Legg. Liutprandi, in Mon. Germ. Legg.
+Ed. Roth. = Edictus Rothari, in Mon. Germ. Legg. IV.
+Grimm, D. R. == Grimm's Deutsche Rechtsalterth.
+Grimm‚ Pref. = Preface to Merkel’s edition of the Lex Salica, 1850.
+Hube = Hube's edition of the Lex Salica, 1867.
+L. Aelf. & (ἰαῦ. = Laws of Alfred and Guthrum, in Schmid’s GeS.
+L. Aeth. = Laws of Aethelberht, ibid.
+
+L. geethel. or Aethelr. or Aethr. = Laws of Aethelred in Schmid's
+ε.
+
+vii
+
+L. Ah. '= Leges Ahistulfi reg„ in Mon. Germ. Legg. IV.
+
+L. orLeg. Al. orAlam. = Leges Alamannorum, in Mon. Germ.
+
+L. Baj. or Bajuv. = Lex Baiuwariorum, in Mon. Germ. Legg. 111.
+
+L. Burg. = Leges Burgundionum, in Mon. Germ. Legg. 111.
+
+L. Cham. = Lex Francorum Chamavorum, herausgeg. von E. T.
+Gaupp, 1855.
+
+L. Cn. = Laws of Cnut, in Schmid's GeS.
+
+L. Edw. = Laws of Edward, ibid. (p. 110).
+
+L. Hen. = Laws of Henry I, ibid.
+
+L. Hlo. or I-Iloth. = Laws of Hlothar δια, ibid.
+
+L. In. = Laws of Ine, ibid.
+
+L. Liu. = Ed. Li„ see above.
+
+L. Rip. == Lex Ripuariorum, in canciani, vol. ii. p. 287.
+
+L. Sal. = Lex Salica, the present edition.
+
+L. Sax. = Lex Saxonum, in Mon. Germ. Legg. V.
+
+L. Thur. = Lex Thuringorum, in Mon. Germ. Legg. V.
+
+L. Wi. = Laws of william, in Schmid’s Ges·
+
+L. Wihtr. = Laws of Wihtraed, in Schmid’s Ges.
+
+L. Wis. orWisig. = Lex Wisigothorum in Caneiani, vol. iv. p. 45.
+
+Marculf. = Marculfi Formulae.
+
+Merkel = Merkel's edition of the Lex Salica.
+
+Mon. Germ. = Monumenta Germaniae hist. (usually the vols. of
+the Leges).
+
+Pa. or Par. Sax. = Capitula de partibus Saxoniae, in Mon. Germ.
+Legg: V. ,
+
+Pact. Al. = Pactus Alamannorum in Mon. Germ. Legg. 111.
+
+Pact. Child. δι Chl. = Pactum pro tenore pacis..
+
+Pard. or Pardessus = Pardessus, Loi Salique, 1843.
+
+Recap. L. Sal. = the document called Recapitulattb Legit Saietae,
+three texts a, b, c ; cf. coll. 425, 426 of the present work.
+
+Sent. Sept. Sept. = the document called Sententiis-t de Septem
+Septinas ,· cf. col. 424 of the present work. “
+
+Sept. Caus, = the document called Septem Chat-ras ; cf. col. 424 of
+the present work. ·
+
+Sohm, Pr. or Proc. = Sohm, Procesz der Lex Salica, 1867.
+
+Sohm, R. u. Ger. = Sohm, F rank. Reichs-und Gerichts-Verfass.,
+1871.
+
+Waitz = Waitz, Das alte Recht der Salischen Franken, 1846.
+
+(His larger work: Deutsche Vcrfassungs- Gesch. has not been
+consulted).
+Zoepfl, D. R. = Zoepfl, Deutsche Rechtsgesch., 4th ed., 1871.
+
+The order in which the first 65 chapters are given will explain
+itself3 that 111 which the rest of the work appears has been explained
+at the commencement of each fresh set of chapters or each new
+document, with the necessary references to other works in which
+they have been published. It will be observed that more attention
+has been paid to the place which the chapters or document occupy
+in the MSS. than to any date assigned to them by Perta, Pardessus
+&c. The uncertainty as to the time when, or the kings from whom,
+
+· the later portion (after ch. 65) of the Lex Salica emanated, is as yet
+
+so great that it is unsafe to arrange it in any definite order.
+
+The chapters have been divided into paragraphS, and the divisions
+ofPardessus, Merkel, and Behreud retained as much as was compa-
+tible with the divisions in the MSS.
+
+All possible precautions to secure accuracy have been taken, ‘but
+errors have crept in notwithstanding. The reader is requested to alter
+the following, and to pardon any others that may have been over-
+
+viii
+
